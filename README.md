@@ -1,4 +1,4 @@
-# Fast Track Adoption of SAP Business Technology Platform
+# Kickstart your SAP BTP Journey with Architectures and Use Cases
 
 <!-- Please include descriptive title -->
 
