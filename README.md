@@ -19,74 +19,103 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 **Introduction**
 
-15 min
+10 min
 
-- Agenda & high-level session outcome description
-- Refresher on SAP BTP concepts
-- Short session outcome demo/click-through (TBD: outcome of [Joule Skills mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4643/))
-- Brief introductions for each of the following:
-  - [SAP Discovery Center](https://discovery-center.cloud.sap/)
-  - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
-  - [SAP Architecture Center](https://architecture.learning.sap.com/)
+- Agenda
 - Articulate specific session goals:
   - How will the resources above empower attendees?
   - What knowledge & skills will attendees leave this session with?
 - Reminder: GitHub & SAP accounts are required
 - Explainer: How to follow along with session exercises & content in GitHub
 
-**Exercise 1: Navigating the Core Resources**
+**Exercise 0: Refresher on SAP BTP Basics**
 
 10 min
 
-- Goal: Familiarize attendees with SAP Discovery Center, SAP BTP Guidance Framework, and SAP Architecture Center
+- Goal: Familiarize attendees with SAP BTP basics, SAP Discovery Center, and SAP BTP Guidance Framework
 - Scavenger hunt & quiz
   - Attendees can bookmark resources as they go along
   - Start on the SAP Discovery Center homepage
   - Find the SAP BTP Guidance Framework
-  - Find the SAP Architecture Center
-  - Use the provided hints & tags to find the specific architecture we will dive into during this session
+  - Dive into the SAP BTP Administration Guide
+    - Drill down into the Core Concepts section to find the needed info for a quiz
   - End with a short 3-5 question quiz
 
-**Diving into a Reference Architecture**
+**Recap on Content So Far**
 
-15 min
+5 min
 
-- Start with the [Joule skills architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
-- Introduce content needed to understand the architecture, focus on:
-  - Joule
-  - Joule skills
-  - Joule studio
-- [Draw.io](https://app.diagrams.net/) introduction & setup demo
-- SAP BTP Guidance Framework resources:
-  - [SAP BTP Solution Diagram Design Repository](https://sap.github.io/btp-solution-diagrams/)
-  - [SAP BTP AI Best Practices](https://btp-ai-bp.docs.sap/)
+- Brief recap for each of the following:
+  - [SAP Discovery Center](https://discovery-center.cloud.sap/)
+  - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
+  - Core SAP BTP Concepts
 
-**Exercise 2: Modifying an Architecture in Draw.io**
-
-15 min
-
-- Include a simple suggested modification to the architecture diagram
-- Enable the SAP draw.io extension
-- Reference the [SAP BTP Solution Diagram Design Repository](https://sap.github.io/btp-solution-diagrams/) as needed
-- Delete unnecessary connections & boxes, add desired/suggested modifications
-
-**Extending the Reference Architecture**
+**Present a Business Scenario**
 
 10 min
 
-- Add a complex functional requirement that presents an architecture change - ex. implementing SAP Document AI and Document Grounding
-- Demo using SAP Discovery Center's Services Catalog & Service Estimator
-- Demo using SAP Discovery Center's AI Catalog & AI Estimator
+- Very brief demo of the target outcome - Joule skills demo
+  - Business scenario overview, no deep technical details at this point
 
-**Exercise 3: Pulling It All Together**
+**Exercise 1: Navigating to Architecture Center**
+
+5 min
+
+- Goal: Familiarize attendees with SAP Discovery Center, SAP BTP Guidance Framework, and SAP Architecture Center
+- Potential Quiz Questions:
+  - What is the right resource to discover reference architectures?
+  - Which reference architectures are applicable to the scenario we described earlier?
+- Scavenger hunt & quiz
+  - Attendees can bookmark resources as they go along
+  - Back in the SAP BTP Guidance Framework, find the SAP Architecture Center
+  - Use the provided hints & tags to find the specific architecture we will dive into during this session
+  - End with a short 3-5 question quiz
+
+> KEY POINT - We have now identified the [reference architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc) we will use for the rest of the session.
+
+**Recap on the Core Resources**
+
+5 min
+
+- Brief recap for each of the following:
+  - [SAP Discovery Center](https://discovery-center.cloud.sap/)
+  - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
+  - [SAP Architecture Center](https://architecture.learning.sap.com/)
+
+**Diving into a Reference Architecture**
+
+10 min
+
+- Working with the [Joule skills architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
+- Introduce content needed to understand the architecture, brief intro on:
+  - Joule
+  - Joule skills
+- Explain the architecture diagram, introducing the Service & AI Catalogs in SAP Discovery Center, with a core focus on the following services/features:
+  - SAP Build
+  - Joule Studio
+  - SAP Cloud Identity Services
+  - SAP AI Core
+
+**Exercise 2: SAP Discovery Center Service Catalog & Estimator**
+
+10 min
+
+- Use the SAP Discovery Center Service Catalog to identify one of the core components (likely SAP AI Core) from the reference architecture diagram
+- Consider the suggested business scenario, its required workloads, and the user base
+  - Use these factors + the Service Estimator to develop a pricing estimate
+- Quiz to verify the pricing estimate
+
+**Exercise 3: Extending an Architecture in Draw.io**
 
 20 min
 
-- Use the Services/AI Catalogs to identify components needed to update the diagram
-- Make the changes in Draw.io
-- Use the pricing estimators to figure out the delta in adding the new functionality
-  - Ideally multiple pricing models should be covered/represented
-- Quiz to verify the pricing calculation
+- Consider a new functional requirement that presents an architecture change
+  - Use the Service Catalog to identify the relevant service based on hints
+- [Draw.io](https://app.diagrams.net/) introduction & setup demo
+- Enable the SAP draw.io extension
+- Reference the [SAP BTP Solution Diagram Design Repository](https://sap.github.io/btp-solution-diagrams/) as needed
+- Add the new service (e.g. SAP Document AI)
+- Delete unnecessary connections & boxes, add desired/suggested modifications
 
 **SAP Architecture Center - New Features**
 
@@ -113,7 +142,13 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 5 min
 
-- You've completed most of the required steps for a contribution in this session, we'll show you what's left to do.
+- You've completed most of the required steps for a contribution in this session, we'll show you what's left to do
+
+**Implementation and Beyond**
+
+5 min
+
+- Introduce the corresponding SAP Discovery Center Mission as a starting point for implementation of a similar scenario
 
 **Recap and Outro**
 
