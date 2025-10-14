@@ -15,9 +15,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 - [A GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [An SAP Account](https://www.sap.com/account.html)
 
-## Session Outline
-
-**Introduction**
+## Introduction
 
 10 min
 
@@ -28,7 +26,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 - Reminder: GitHub & SAP accounts are required
 - Explainer: How to follow along with session exercises & content in GitHub
 
-**Exercise 0: Refresher on SAP BTP Basics**
+## Exercise 0: Refresher on SAP BTP Basics
 
 10 min
 
@@ -41,7 +39,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
     - Drill down into the Core Concepts section to find the needed info for a quiz
   - End with a short 3-5 question quiz
 
-**Recap on Content So Far**
+## Recap on Content So Far
 
 5 min
 
@@ -50,14 +48,14 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
   - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
   - Core SAP BTP Concepts
 
-**Present a Business Scenario**
+## Present a Business Scenario
 
 10 min
 
 - Very brief demo of the target outcome - Joule skills demo
   - Business scenario overview, no deep technical details at this point
 
-**Exercise 1: Navigating to Architecture Center**
+## Exercise 1: Navigating to Architecture Center
 
 5 min
 
@@ -73,7 +71,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 > KEY POINT - We have now identified the [reference architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc) we will use for the rest of the session.
 
-**Recap on the Core Resources**
+## Recap on the Core Resources
 
 5 min
 
@@ -82,14 +80,63 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
   - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
   - [SAP Architecture Center](https://architecture.learning.sap.com/)
 
-**Diving into a Reference Architecture**
+## Diving into a Reference Architecture
 
-10 min
+Let's get hands-on with a specific reference architecture, for this session we'll work with:
 
-- Working with the [Joule skills architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
-- Introduce content needed to understand the architecture, brief intro on:
-  - Joule
-  - Joule skills
+[**Extend Joule with Joule Studio**](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
+
+> _This reference architecture outlines how Joule Studio can be leveraged to integrate and extend SAP and non-SAP solutions across cloud and hybrid landscapes. By tapping into the expertise of citizen developers, Joule Studio facilitates the adaptation, improvement, and innovation of business processes, driving positive business outcomes through sophisticated AI capabilities._
+
+![Extend Joule with Joule Studio Diagram](./imgs/Joule_Studio_Ref_Arch.svg)
+
+Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills.
+
+### Joule
+
+Resource: [Deep Dive into Joule](https://content-discovery.int.sap/assets/0b75b63a-14aa-48c1-b745-f6439a7077a6?referer=%2F%3FtextSearch%3DDeep%2BDive%2Binto%2BJoule)
+
+> _Joule, the AI copilot that truly understands your business_
+
+![Joule Interaction Patterns](./imgs/Joule_Interaction_Patterns.png)
+
+| Interaction pattern |                                                                                                                                                                                                                                                                                                                              |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Informational       | _With informational interactions, Joule provides knowledge-based results. Information based on SAP Help Documentation will be available for all SAP cloud applications. With Document Grounding, you can upload your own content, e.g. HR & travel policies or FAQs._                                                        |
+| Navigational        | _With Joule, you can easily navigate across SAP products with navigational interactions. Joule offers a navigational link that opens the relevant application and interface in a new browser tab. At the destination, you can continue from where you left off, with your previous conversation history and context intact._ |
+| Transactional       | _Transactional interactions allow you to access backend systems and manage business processes through natural language and AI. This includes tasks like approving purchase orders, creating job positions, or other actions (create, read, update, delete) across SAP business processes._                                   |
+| Analytical          | _Joule supports analytical interactions. You can ask analytical questions while Joule leverages Just Ask in SAP Analytics Cloud to provide analytical insights._                                                                                                                                                             |
+
+### Joule Studio
+
+Resource: [Joule Studio (sap.com)](https://www.sap.com/products/artificial-intelligence/joule-studio.html)
+
+> _Joule Studio is a capability in SAP Build that allows organizations to create and deploy custom Joule agents and skills that automate workflows and improve efficiency across SAP and non-SAP systems._
+
+![Create a Joule Studio Project](./imgs/Create_Joule_Studio_project.png)
+
+### Joule Skills
+
+Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery-center.cloud.sap/ai-feature/e93aa292-e7f4-449d-9586-f1a8510d5ab6/)
+
+> _Joule skills are designed to execute atomic, predefined operations within a business context through Joule's conversational interface. By performing single tasks such as retrieving specific data or executing system transactions, Joule skills ensure developers and business users fast, reliable, and reusable automation for high-frequency operations._
+
+| Joule skill type     |                                                                          |
+| -------------------- | ------------------------------------------------------------------------ |
+| SAP delivered skills | _Available to Joule out-of-the-box, dependent on your system landscape._ |
+| Custom skills        | _Designed in and deployed from Joule Studio._                            |
+
+| Key characteristics of Joule skills |                                                                                                                          |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Intent-driven                       | _Each skill is triggered by a user’s natural-language input (intent) and performs a specific task._                      |
+| Composable                          | _Skills can be combined to create richer interactions and workflows._                                                    |
+| Low-code                            | _Built using an intuitive interface._                                                                                    |
+| Action Projects                     | _Allow skills to connect to remote systems (e.g., SAP S/4HANA, SAP Ariba, or Northwind) to fetch or post data via APIs._ |
+| Extensible                          | _Developers and business users can customize skills to align with specific business processes or domain needs._          |
+
+
+### Architecture Diagram
+
 - Explain the architecture diagram, introducing the Service & AI Catalogs in SAP Discovery Center, with a core focus on the following services/features:
   - SAP Build
   - Joule Studio
