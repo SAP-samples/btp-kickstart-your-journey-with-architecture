@@ -1,6 +1,6 @@
 # Exercise 3: Extending a Reference Architecture in draw.io
 
-> [!NOTE] > **Learning Objectives**:
+> [!NOTE] **Learning Objectives**:
 >
 > - Connect functional requirements to architecture decisions
 > - Identify helpful resources for interpreting BTP Solution Diagrams
