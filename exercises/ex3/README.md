@@ -2,7 +2,9 @@
 
 [< Return to the session's main page](../../README.md)
 
-> [!NOTE] > **Learning Objectives**:
+> [!NOTE]
+>
+> **Learning Objectives**:
 >
 > - Connect functional requirements to architecture decisions
 > - Identify helpful resources for interpreting BTP Solution Diagrams
@@ -84,4 +86,3 @@ draw.io is a diagramming solution that is free-to-use, doesn't require login or 
    ![Open File draw.io](./images/open-file-drawio.png)
 
 <br/>
-
