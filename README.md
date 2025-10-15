@@ -15,6 +15,15 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 - [A GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [An SAP Account](https://www.sap.com/account.html)
 
+## Navigation Links
+
+- Exercise 0
+- Exercise 1
+- Exercise 2
+- [Exercise 3: Extending a Reference Architecture in draw.io](./exercises/ex3/)
+- Exercise 4
+- Exercise 5
+
 ## Introduction
 
 10 min

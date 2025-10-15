@@ -1,6 +1,6 @@
 # Exercise 3: Extending a Reference Architecture in draw.io
 
-[< Return to the session's main page](../../README.md)
+[< Return to the session's main page](../../)
 
 > [!NOTE]
 >
