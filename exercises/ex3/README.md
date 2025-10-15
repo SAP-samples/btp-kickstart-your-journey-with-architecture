@@ -41,7 +41,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
 
 <br/>
 
-**Knowledge check:**
+🧠 **Knowledge check:**
 
 <details>
     <summary>
@@ -59,5 +59,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
             Connectivity Service, Cloud Connector, and the "SAP On-Premise Solutions" box can all be removed since they are not part of the proposed solution
         </li>
     </ol>
+    <br/>
+    <img src="./images/joule-studio-ref-arch-init-mods.drawio.svg"/>
 </details>
 <br/>
