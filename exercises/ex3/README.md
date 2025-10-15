@@ -1,13 +1,16 @@
 # Exercise 3: Extending a Reference Architecture in draw.io
 
-> [!NOTE]
-> **Learning Objectives**:
+[< Return to the session's main page](../../README.md)
+
+> [!NOTE] > **Learning Objectives**:
 >
 > - Connect functional requirements to architecture decisions
 > - Identify helpful resources for interpreting BTP Solution Diagrams
 > - Learn how to use draw.io to create, modify, and extend BTP Solution Diagrams
 >
 > **Duration**: ~20 minutes
+
+<br/>
 
 ## Step 0. The Reference Architecture Starting Point
 
@@ -21,6 +24,8 @@ One helpful resource in understanding the conventions of a BTP Solution Diagram 
 
 **Extend Joule with Joule Studio Reference Architecture — BTP Solution Diagram**
 ![Joule Studio Reference Architecture](./images/joule-studio-ref-arch.drawio.svg)
+
+<br/>
 
 ## Step 1. Case Study — Consolidating Payroll Information
 
@@ -46,7 +51,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
 
 <details>
     <summary>
-        What core modifications do we need to make to the BTP Solution Diagram introduced in the previous step to represent our proposed solution?
+        What core modifications do we need to make to the BTP Solution Diagram introduced in the previous step to represent our proposed solution? (click for answer)
     </summary>
     <br/>
     <ol>
@@ -64,3 +69,19 @@ An example, in the video below, showcases our proposed solution. Do note, the co
     <img src="./images/joule-studio-ref-arch-init-mods.drawio.svg"/>
 </details>
 <br/>
+
+## Step 2: Getting Started with draw.io
+
+draw.io is a diagramming solution that is free-to-use, doesn't require login or registration, and offers native integration for SAP BTP service icons and shapes. It can be accessed in-browser or via a desktop application, today we'll use the in-browser version.
+
+1. Open [draw.io](https://app.diagrams.net/)
+2. Click on the button **More Shapes** in the bottom left corner
+   ![More Shapes draw.io](./images/more-shapes-drawio.png)
+3. Scroll down and checkmark the checkbox labelled **SAP** under the **Networking** heading, make sure **Remember this setting** is checked, then click **Apply**
+   ![SAP Checkbox draw.io](./images/add-sap-drawio.png)
+4. Download the provided [starter draw.io file](./drawio/joule-studio-ref-arch-starter.drawio)
+5. Open the starter draw.io file in [draw.io](https://app.diagrams.net/)
+   ![Open File draw.io](./images/open-file-drawio.png)
+
+<br/>
+
