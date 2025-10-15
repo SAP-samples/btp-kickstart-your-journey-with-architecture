@@ -90,13 +90,14 @@ Let's take a look at the specific reference architecture we'll use as our founda
 
 <br/>
 
-![Extend Joule with Joule Studio Diagram](./imgs/Joule_Studio_Ref_Arch.svg)
+![Extend Joule with Joule Studio Diagram](./images/joule-studio-ref-arch.svg)
 
 ---
 
 <br/>
 
-❗NOTE: **Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills.**
+> [!NOTE]
+> Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills.
 
 ### Joule
 
@@ -106,7 +107,7 @@ Resource: [Deep Dive into Joule](https://content-discovery.int.sap/assets/0b75b6
 
 <br/>
 
-![Joule Interaction Patterns](./imgs/Joule_Interaction_Patterns.png)
+![Joule Interaction Patterns](./images/joule-interaction-patterns.png)
 
 | Interaction pattern |                                                                                                                                                                                                                                                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +126,7 @@ Resource: [Joule Studio (sap.com)](https://www.sap.com/products/artificial-intel
 
 <br/>
 
-![Create a Joule Studio Project](./imgs/Create_Joule_Studio_project.png)
+![Create a Joule Studio Project](./images/create-joule-studio-project.png)
 
 <br/>
 
@@ -152,9 +153,7 @@ Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery
 | Action Projects                     | _Allow skills to connect to remote systems (e.g., SAP S/4HANA, SAP Ariba, or Northwind) to fetch or post data via APIs._ |
 | Extensible                          | _Developers and business users can customize skills to align with specific business processes or domain needs._          |
 
-<br/>
-
-___
+---
 
 ### Architecture Diagram
 
