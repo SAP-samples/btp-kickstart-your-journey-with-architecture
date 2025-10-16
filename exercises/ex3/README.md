@@ -1,6 +1,8 @@
 # Exercise 3: Extending a Reference Architecture in draw.io
 
-[< Return to the session's main page](../../)
+[< Return to the main page](../../)
+
+<br/>
 
 > [!NOTE]
 >
@@ -53,7 +55,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
 
 <details>
     <summary>
-        What core modifications do we need to make to the BTP Solution Diagram introduced in the previous step to represent our proposed solution? (click for answer)
+        What core modifications do we need to make to the BTP Solution Diagram introduced in the previous step to represent our proposed solution? (click to see)
     </summary>
     <br/>
     <ol>
@@ -85,4 +87,52 @@ draw.io is a diagramming solution that is free-to-use, doesn't require login or 
 5. Open the starter draw.io file in [draw.io](https://app.diagrams.net/)
    ![Open File draw.io](./images/open-file-drawio.png)
 
+<br/>
+
+## Step 3: Modifying the BTP Solution Diagram in draw.io
+
+Recall, we identified the necessary changes to represent our proposed solution in [Step 1](#step-1-case-study--consolidating-payroll-information).
+
+<details>
+    <summary>
+        Required changes (click to see)
+    </summary>
+    <br/>
+    <ol>
+        <li>
+            SAP SuccessFactors should be represented in the "SAP Cloud Solutions" box
+        </li>
+        <li>
+            SecurePayroll should be represented in the "3rd Party APIs & Applications" box
+        </li>
+        <li>
+            Connectivity Service, Cloud Connector, and the "SAP On-Premise Solutions" box can all be removed since they are not part of the proposed solution
+        </li>
+    </ol>
+</details>
+<br/>
+
+Let's modify the starter BTP Solution Diagram we opened in the previous step to reflect the required changes.
+
+<br/>
+
+> [!TIP]
+>
+> Use the SAP shapes we enabled in draw.io: the SAP SuccessFactors logo and text are available under **SAP / Brand Names**
+>
+> Expand shapes as needed, the size of the canvas will automatically increase to accommodate your changes
+
+<br/>
+
+<details>
+    <summary>
+        Check your work (click to see)
+    </summary>
+    <br/>
+    <p>
+        <a href="./drawio/joule-studio-ref-arch-modified.drawio">Modified draw.io file</a>
+    </p>
+    <br/>
+    <img src="./images/joule-studio-ref-arch-modified.drawio.svg"/>
+</details>
 <br/>
