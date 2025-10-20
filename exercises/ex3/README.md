@@ -18,16 +18,18 @@
 
 ## Step 0. The Reference Architecture Starting Point
 
-Resource: [Extend Joule with Joule Studio (SAP Architecture Center)](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
-
 The BTP Solution Diagram shown below provides a general starting point for modification or extension. In this exercise we will modify the diagram below to address a case study described in the following step.
 
-One helpful resource in understanding the conventions of a BTP Solution Diagram is the [BTP Solution Diagram Repository](https://sap.github.io/btp-solution-diagrams/)—it contains ready-to-use templates and guidelines to get you started. Like many of the resources we'll cover today, the BTP Solution Diagram Repository can also be accessed via the [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework).
+> [!NOTE]
+>
+> The diagram below has been adapted (with a runtime focus for our scenario) from the following resource: [Extend Joule with Joule Studio (SAP Architecture Center)](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc) 
+
+Another helpful resource in understanding the conventions of a BTP Solution Diagram is the [BTP Solution Diagram Repository](https://sap.github.io/btp-solution-diagrams/)—it contains ready-to-use templates and guidelines to get you started. Like many of the resources we'll cover today, the BTP Solution Diagram Repository can also be accessed via the [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework).
 
 <br/>
 
 **Extend Joule with Joule Studio Reference Architecture — BTP Solution Diagram**
-![Joule Studio Reference Architecture](./images/joule-studio-ref-arch.drawio.svg)
+![Joule Studio Reference Architecture S](./images/joule-studio-ref-arch-starter.drawio.svg)
 
 <br/>
 
@@ -70,7 +72,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
         </li>
     </ol>
     <br/>
-    <img src="./images/joule-studio-ref-arch-init-mods.drawio.svg"/>
+    <img src="./images/joule-studio-ref-arch-starter-suggested-modifications.drawio.svg"/>
 </details>
 <br/>
 
@@ -118,7 +120,7 @@ Let's modify the starter BTP Solution Diagram we opened in the previous step to 
 
 > [!TIP]
 >
-> Use the SAP shapes we enabled in draw.io: the SAP SuccessFactors logo and text are available under **SAP / Brand Names**
+> Use the SAP shapes we enabled in draw.io, for example, the SAP SuccessFactors logo and text are available under **SAP / Brand Names** in the left-hand toolbar
 >
 > Expand shapes as needed, the size of the canvas will automatically increase to accommodate your changes
 
