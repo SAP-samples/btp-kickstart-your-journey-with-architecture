@@ -17,12 +17,12 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 ## Navigation Links
 
-- Exercise 0
-- Exercise 1
-- Exercise 2
-- [Exercise 3: Extending a Reference Architecture in draw.io](./exercises/ex3/)
-- Exercise 4
-- Exercise 5
+- [Exercise 0: Refresher on SAP BTP Basics](./exercises/ex0/) - Arne
+- [Exercise 1: Explore the SAP Architecture Center](./exercises/ex1/) - Arne
+- [Exercise 2: Explore the SAP Discovery Center Service Catalog & Estimator](./exercises/ex2/) - Arne
+- [Exercise 3: Extending a Reference Architecture in draw.io](./exercises/ex3/) - Victor
+- [Exercise 4: Validate your BTP Solution Diagram](./exercises/ex4/) - Victor
+- [Exercise 5: Make your Reference Architecture Official](./exercises/ex5/) - Victor
 
 ## Introduction
 
