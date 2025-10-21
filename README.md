@@ -57,12 +57,25 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
   - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
   - Core SAP BTP Concepts
 
-## Present a Business Scenario
+## Case Study — Consolidating Payroll Information
 
-10 min
+Resource: [Interactive Value Journey — Designing custom Joule skills in Joule Studio](https://url.sap/skilldesign)
 
-- Very brief demo of the target outcome - Joule skills demo
-  - Business scenario overview, no deep technical details at this point
+Our enterprise, BestRun, uses SAP SuccessFactors as its core HR system, but handles payslips and tax documents through a third-party provider, SecurePayroll. We would like to empower employees to access their payroll and tax information seamlessly from one simple interface, thereby improving response times and reducing HR support tickets.
+
+**Proposed solution:**
+
+Create Joule skills to...
+
+> _Enable employees to securely access payslips and tax documents from third-party payroll systems directly within SAP SuccessFactors using Joule. Simplifies the user experience by removing the need for separate logins and streamlines payroll communication to HR._
+
+An example, in the video below, showcases our proposed solution. Do note, the conversation is shown in Joule Studio's test environment. Upon deployment, the defined custom skill would be accessible through Joule in SAP SuccessFactors.
+
+<br/>
+
+![Testing the Joule Skill](./media/testing-the-joule-skill.gif)
+
+<br/>
 
 ## Exercise 1: Navigating to Architecture Center
 
