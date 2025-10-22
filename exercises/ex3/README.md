@@ -22,7 +22,7 @@ The BTP Solution Diagram shown below provides a general starting point for modif
 
 > [!NOTE]
 >
-> The diagram below has been adapted (with a runtime focus for our scenario) from the following resource: [Extend Joule with Joule Studio (SAP Architecture Center)](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc) 
+> The diagram below has been adapted (with a runtime focus for our scenario) from the following resource: [Extend Joule with Joule Studio (SAP Architecture Center)](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
 
 Another helpful resource in understanding the conventions of a BTP Solution Diagram is the [BTP Solution Diagram Repository](https://sap.github.io/btp-solution-diagrams/)—it contains ready-to-use templates and guidelines to get you started. Like many of the resources we'll cover today, the BTP Solution Diagram Repository can also be accessed via the [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework).
 
@@ -44,12 +44,6 @@ Our enterprise, BestRun, uses SAP SuccessFactors as its core HR system, but hand
 Create Joule skills to...
 
 > _Enable employees to securely access payslips and tax documents from third-party payroll systems directly within SAP SuccessFactors using Joule. Simplifies the user experience by removing the need for separate logins and streamlines payroll communication to HR._
-
-An example, in the video below, showcases our proposed solution. Do note, the conversation is shown in Joule Studio's test environment. Upon deployment, the defined custom skill would be accessible through Joule in SAP SuccessFactors.
-
-<br/>
-
-![Testing the Joule Skill](./media/testing-the-joule-skill.gif)
 
 <br/>
 
@@ -132,9 +126,55 @@ Let's modify the starter BTP Solution Diagram we opened in the previous step to 
     </summary>
     <br/>
     <p>
-        <a href="./drawio/joule-studio-ref-arch-modified.drawio">Modified draw.io file</a>
+        <a href="./drawio/joule-studio-ref-arch-modified.drawio">Modified draw.io File</a>
     </p>
     <br/>
     <img src="./images/joule-studio-ref-arch-modified.drawio.svg"/>
+</details>
+<br/>
+
+## Step 4: Extending the Solution's Functionality with an AI Feature
+
+In the previous step, we completed modifications to our BTP Solution Diagram to represent our two new Joule skills for consolidating payroll and tax information.
+
+The proposed solution will work well for many retrieval-focused interactions, but it may not have the needed context to address certain questions.
+
+Consider the members of BestRun's sales team—a significant portion of their compensation is tied to commissions earned on the sales of BestRun's software. Payroll information alone likely won't provide enough context for Joule to answer questions about commissions. **How can we provide Joule with additional context that will help it answer policy-based questions?**
+
+Thankfully, there's already an AI feature we can use to enhance Joule's context with our policy documents.
+
+Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.cloud.sap/ai-catalog/)?
+
+> [!TIP]
+>
+> Use the following filters to narrow down your search:
+>
+> _AI Types_: AI Feature
+>
+> _Commercial Types_: Premium
+>
+> _Availability_: Generally Available
+>
+> _Product Categories_: Technology Platform
+
+<br/>
+
+🧠 **Knowledge check:**
+
+<details>
+    <summary>
+        Which AI feature enhances Joule's context with information retrieved from custom documents?
+    </summary>
+    <br/>
+    <p>
+        <a href="https://discovery-center.cloud.sap/ai-feature/fedeca14-3e69-472c-a0ea-82396735c35f/">Document Grounding</a>
+         enhances Joule's context for Q&A with information retrieved from custom documents. In the BTP Solution Diagram below, the Microsoft SharePoint integration is shown—Word documents, PowerPoint decks, PDFs, images, etc. can all be accessed from SharePoint by Joule via Document Grounding.  
+    </p>
+    <br/>
+    <p>
+        <a href="./drawio/joule-studio-ref-arch-extended.drawio">Extended draw.io File</a>
+    </p>
+    <br/>
+    <img src="./images/joule-studio-ref-arch-extended.drawio.svg"/>
 </details>
 <br/>
