@@ -149,13 +149,13 @@ Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.
 >
 > Use the following filters to narrow down your search:
 >
-> _AI Types_: AI Feature
+> _AI Types_: **AI Feature**
 >
-> _Commercial Types_: Premium
+> _Commercial Types_: **Premium**
 >
-> _Availability_: Generally Available
+> _Availability_: **Generally Available**
 >
-> _Product Categories_: Technology Platform
+> _Product Categories_: **Technology Platform**
 
 <br/>
 
@@ -178,3 +178,5 @@ Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.
     <img src="./images/joule-studio-ref-arch-extended.drawio.svg"/>
 </details>
 <br/>
+
+[< Return to the main page](../../)
