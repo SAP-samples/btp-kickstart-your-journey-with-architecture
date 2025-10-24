@@ -1,6 +1,6 @@
 # Exercise 3: Extending a Reference Architecture in draw.io
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 
@@ -179,9 +179,4 @@ Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.
 </details>
 <br/>
 
-<span style="display: inline-block; margin-right: 20px;">
-    <a href="../../">&lt; Return to the main page</a>
-</span>
-<span style="display: inline-block;">
-    <a href="../ex4/">Continue to Exercise 4 &gt;</a>
-</span>
+[**Continue to Exercise 4 >**](../ex4/)
