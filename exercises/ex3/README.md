@@ -168,7 +168,7 @@ Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.
     <br/>
     <p>
         <a href="https://discovery-center.cloud.sap/ai-feature/fedeca14-3e69-472c-a0ea-82396735c35f/">Document Grounding</a>
-         enhances Joule's context for Q&A with information retrieved from custom documents. In the BTP Solution Diagram below, the Microsoft SharePoint integration is shown—Word documents, PowerPoint decks, PDFs, images, etc. can all be accessed from SharePoint by Joule via Document Grounding.  
+         enhances Joule's context for Q&A with information retrieved from custom documents. In the BTP Solution Diagram below, the Microsoft SharePoint integration is shown—Word documents, PowerPoint decks, PDFs, images, etc. can all be accessed from SharePoint to provide context for Joule via Document Grounding.  
     </p>
     <br/>
     <p>
@@ -179,4 +179,9 @@ Can you find it in [SAP Discovery Center's AI Catalog](https://discovery-center.
 </details>
 <br/>
 
-[< Return to the main page](../../)
+<span style="display: inline-block; margin-right: 20px;">
+    <a href="../../">&lt; Return to the main page</a>
+</span>
+<span style="display: inline-block;">
+    <a href="../ex4/">Continue to Exercise 4 &gt;</a>
+</span>
