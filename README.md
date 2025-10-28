@@ -24,16 +24,17 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 - [Exercise 4: Validate your BTP Solution Diagram](./exercises/ex4/) - Victor
 - [Exercise 5: Make your Reference Architecture Official](./exercises/ex5/) - Victor
 
-## Introduction
+## Introduction - Slides
 
 10 min
 
-- Agenda
-- Articulate specific session goals:
+- Agenda (Arne)
+- Articulate specific session goals (Victor):
   - How will the resources above empower attendees?
   - What knowledge & skills will attendees leave this session with?
-- Reminder: GitHub & SAP accounts are required
-- Explainer: How to follow along with session exercises & content in GitHub
+- Reminder: GitHub account is required (Victor)
+- Slide for temporary SAP credentials (Victor)
+- Explainer: How to follow along with session exercises & content in GitHub (Victor)
 
 ## Exercise 0: Refresher on SAP BTP Basics
 
@@ -48,7 +49,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
     - Drill down into the Core Concepts section to find the needed info for a quiz
   - End with a short 3-5 question quiz
 
-## Recap on Content So Far
+## Recap on Content So Far - Slides (Arne)
 
 5 min
 
@@ -57,7 +58,7 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
   - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
   - Core SAP BTP Concepts
 
-## Case Study — Consolidating Payroll Information
+## Case Study — Consolidating Payroll Information + Slides (Victor)
 
 Resource: [Interactive Value Journey — Designing custom Joule skills in Joule Studio](https://url.sap/skilldesign)
 
@@ -77,6 +78,10 @@ An example, in the video below, showcases our proposed solution. Do note, the co
 
 <br/>
 
+## Transition - (Victor)
+
+Now, that we've introduced our case study, let's start building the foundation that will enable us to devise a solution that leverages Business AI to consolidate information and empower our users.
+
 ## Exercise 1: Navigating to Architecture Center
 
 5 min
@@ -93,16 +98,7 @@ An example, in the video below, showcases our proposed solution. Do note, the co
 
 > KEY POINT - We have now identified the [reference architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc) we will use for the rest of the session.
 
-## Recap on the Core Resources
-
-5 min
-
-- Brief recap for each of the following:
-  - [SAP Discovery Center](https://discovery-center.cloud.sap/)
-  - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
-  - [SAP Architecture Center](https://architecture.learning.sap.com/)
-
-## Introducing a Reference Architecture
+## Introducing a Reference Architecture + Slides (Victor)
 
 Let's take a look at the specific reference architecture we'll use as our foundation for the remaining exercises:
 
@@ -119,7 +115,7 @@ Let's take a look at the specific reference architecture we'll use as our founda
 <br/>
 
 > [!NOTE]
-> Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills.
+> Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills. - **1 slide for each Joule, Joule Studio, and Joule Skills** (Victor) [Note transition content below to slides]
 
 ### Joule
 
@@ -177,13 +173,13 @@ Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery
 
 ---
 
-### Architecture Diagram
+### Architecture Diagram (Victor)
 
 - Explain the architecture diagram, introducing the Service & AI Catalogs in SAP Discovery Center, with a core focus on the following services/features:
-  - SAP Build
+  - SAP Build - leave the SAP Build Focus for Exercise 2
   - Joule Studio
   - SAP Cloud Identity Services
-  - SAP AI Core
+  - SAP AI Core - note this is used for Joule and AI agents under the hood without needing to be provisioned on your account
 
 **Exercise 2: SAP Discovery Center Service Catalog & Estimator**
 
@@ -193,6 +189,9 @@ Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery
 - Consider the suggested business scenario, its required workloads, and the user base
   - Use these factors + the Service Estimator to develop a pricing estimate
 - Quiz to verify the pricing estimate
+
+**Transition** (Arne) 
+Verbal or slides
 
 **Exercise 3: Extending an Architecture in Draw.io**
 
@@ -227,21 +226,19 @@ Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery
 - Insert your completed diagram
 - Publish!
 
-**SAP Architecture Center's Community of Practice**
+**SAP Architecture Center's Community of Practice** - Slides (Victor)
 
 5 min
 
 - You've completed most of the required steps for a contribution in this session, we'll show you what's left to do
 
-**Implementation and Beyond**
+**Implementation and Beyond** - Slides (Arne)
 
-5 min
+7 min
 
+- What attendees have learned today
 - Introduce the corresponding SAP Discovery Center Mission as a starting point for implementation of a similar scenario
-
-**Recap and Outro**
-
-5 min
+- Call to action
 
 ## Known Issues
 
