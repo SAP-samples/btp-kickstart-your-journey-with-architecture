@@ -52,23 +52,5 @@ Knowledge Check - tbd
 
 
 
-Having a general understanding about the main concepts of SAP BTP you would like to get some ideas and inspiration on typical scenarios that SAP BTP is being used for.
 
-10. Navigate back to the SAP BP Guidance Framework<br>
-![Guidance Framework2](./images/7.png) <br>
 
-11. Navigate to the SAP Architecture Center <br>
-## Step 4: The Architecture Center <br>
-![Architecture Center](./images/8.png) <br>
-12. To get an overview about the content in the Architecture Center you press the button to "Explore Now" to get to the Architecture Explorer<br>
-13. You decide to filter the architectures by technology domain as you are interested how SAP BTP will be able to help shaping your company's AI strategy, you choose "Artificial Intelligence"
-
-![Architecture Center](./images/9.png) <br>
-
-14. You remember that there is an open request from your HR department to add some functionalities to the Joule assistant in Successfactors. So, you decide to evaluate the "Extending Joule with Joule Studio" architecture.<br>
-
-![Architecture Explorer2](./images/10.png)<br>
-
-15. Read the first paragraph of the explanantion of the scenario to get a basic understanding about Joule and the purpose of the outlined scenario.
-
-![Architecture Explorer2](./images/11.png)<br>
