@@ -42,3 +42,5 @@ Upload the draw.io file you modified in the previous exercise (or the [reference
 
 ![Upload the draw.io file](./images/upload-drawio-file.png)
 
+## Step 3: Interpret your Validator Results
+
