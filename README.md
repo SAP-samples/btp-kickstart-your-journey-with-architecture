@@ -11,14 +11,14 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 ## Exercises
 
-| &nbsp;                                                                                   |
-| ---------------------------------------------------------------------------------------- |
-| [0 — **Refresher on SAP BTP Basics**](./exercises/ex0/)                                  |
-| [1 — **Explore the SAP Architecture Center**](./exercises/ex1/)                          |
-| [2 — **Explore the SAP Discovery Center Service Catalog & Estimator**](./exercises/ex2/) |
-| [3 — **Extending a Reference Architecture in draw.io**](./exercises/ex3/)                |
-| [4 — **Validate your BTP Solution Diagram**](./exercises/ex4/)                           |
-| [5 — **Make your Reference Architecture Official**](./exercises/ex5/)                    |
+| #   | Title                                                                                |
+| --- | ------------------------------------------------------------------------------------ |
+| 0   | [**Refresher on SAP BTP Basics**](./exercises/ex0/)                                  |
+| 1   | [**Explore the SAP Architecture Center**](./exercises/ex1/)                          |
+| 2   | [**Explore the SAP Discovery Center Service Catalog & Estimator**](./exercises/ex2/) |
+| 3   | [**Extending a Reference Architecture in draw.io**](./exercises/ex3/)                |
+| 4   | [**Validate your BTP Solution Diagram**](./exercises/ex4/)                           |
+| 5   | [**Make your Reference Architecture Official**](./exercises/ex5/)                    |
 
 ## Case Study — Consolidating Payroll Information
 
