@@ -8,7 +8,9 @@
 >
 > **Learning Objectives**:
 >
-> - Example learning objective
+> - Understand the contribution process for the SAP Architecture Center
+> - Use the Quick Start feature to create a new reference architecture contribution
+> - Populate a reference architecture with existing content and diagrams
 >
 > **Duration**: ~10 minutes
 
