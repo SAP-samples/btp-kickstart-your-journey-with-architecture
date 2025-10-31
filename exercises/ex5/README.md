@@ -87,7 +87,7 @@ Quick Start enables you to edit your contribution directly in the browser or ins
 3. Remove the placeholder text under the **Architecture Diagram** heading
 4. Hover over **Insert** and click on **Draw.io Diagram**
    ![Insert draw.io Diagram](./images/drawio-insert.png)
-5. Upload your modified diagram from the previous exercises
+5. Upload your [modified draw.io file](../ex3/drawio/joule-studio-ref-arch-modified.drawio) from the previous exercises
    ![Diagram Uploaded](./images/diagram-uploaded.png)
 
 <br/>
