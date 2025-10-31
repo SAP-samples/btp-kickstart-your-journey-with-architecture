@@ -17,19 +17,21 @@
 
 ## The Architecture Validator
 
+For this exercise you will use a tool called the Architecture Validator on SAP Architecture Center, here's what it does:
+
 > Ensure your solution diagrams follow a consistent framework with rules developed by our architects, maintaining quality, improving collaboration, and aligning technical accuracy with business needs.
 
 The Architecture Validator is a great resource to use alongside the [BTP Solution Diagram Guidelines](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/).
 
 <br/>
 
-## Step 0: Ensure You Have an SAP Account
+## Step 1: Ensure You Have an SAP Account
 
 An SAP account is required for this exercise, if you do not already have one, [create your account here](https://www.sap.com/account.html).
 
 <br/>
 
-## Step 1: Accessing the Architecture Validator
+## Step 2: Accessing the Architecture Validator
 
 1. Navigate to the [SAP Architecture Center](https://architecture.learning.sap.com/@preview/releasev2/)
 2. Login with SAP
@@ -39,7 +41,7 @@ An SAP account is required for this exercise, if you do not already have one, [c
 
 <br/>
 
-## Step 2: Validate your BTP Solution Diagram
+## Step 3: Validate your BTP Solution Diagram
 
 Upload the draw.io file you modified in the previous exercise (or the [reference draw.io file here](../ex3/drawio/joule-studio-ref-arch-modified.drawio)) to the Validator and click **Validate**.
 
@@ -49,7 +51,7 @@ Upload the draw.io file you modified in the previous exercise (or the [reference
 
 <br/>
 
-## Step 3: Interpret your Validator Results
+## Step 4: Interpret your Validator Results
 
 The Architecture Validator codifies and enforces a wide variety of rules intended to promote architectural best practices. The rules cover connectivity, security, generative AI governance, application groupings, and more.
 

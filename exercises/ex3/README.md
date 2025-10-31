@@ -16,7 +16,7 @@
 
 <br/>
 
-## Step 0. The Reference Architecture Starting Point
+## Step 1. The Reference Architecture Starting Point
 
 The BTP Solution Diagram shown below provides a general starting point for modification or extension. In this exercise we will modify the diagram below to address a case study described in the following step.
 
@@ -33,7 +33,7 @@ Another helpful resource in understanding the conventions of a BTP Solution Diag
 
 <br/>
 
-## Step 1. Case Study — Consolidating Payroll Information
+## Step 2. Case Study — Consolidating Payroll Information
 
 Resource: [Interactive Value Journey — Designing custom Joule skills in Joule Studio](https://url.sap/skilldesign)
 
@@ -70,7 +70,7 @@ Create Joule skills to...
 </details>
 <br/>
 
-## Step 2: Getting Started with draw.io
+## Step 3: Getting Started with draw.io
 
 draw.io is a diagramming solution that is free-to-use, doesn't require login or registration, and offers native integration for SAP BTP service icons and shapes. It can be accessed in-browser or via a desktop application, today we'll use the in-browser version.
 
@@ -85,9 +85,9 @@ draw.io is a diagramming solution that is free-to-use, doesn't require login or 
 
 <br/>
 
-## Step 3: Modifying the BTP Solution Diagram in draw.io
+## Step 4: Modifying the BTP Solution Diagram in draw.io
 
-Recall, we identified the necessary changes to represent our proposed solution in [Step 1](#step-1-case-study--consolidating-payroll-information).
+Recall, we identified the necessary changes to represent our proposed solution in [Step 2](#step-2-case-study--consolidating-payroll-information).
 
 <details>
     <summary>
@@ -133,7 +133,7 @@ Let's modify the starter BTP Solution Diagram we opened in the previous step to 
 </details>
 <br/>
 
-## Step 4: Extending the Solution's Functionality with an AI Feature
+## Step 5: Extending the Solution's Functionality with an AI Feature
 
 In the previous step, we completed modifications to our BTP Solution Diagram to represent our two new Joule skills for consolidating payroll and tax information.
 
