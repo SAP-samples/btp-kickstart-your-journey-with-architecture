@@ -1,6 +1,6 @@
 # Exercise 5: Make your Reference Architecture Official
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 

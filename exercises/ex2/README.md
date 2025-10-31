@@ -1,6 +1,6 @@
 # Exercise 2: Using further resources to get information on SAP BTP's services and content
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 

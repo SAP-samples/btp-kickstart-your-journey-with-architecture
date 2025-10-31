@@ -1,6 +1,6 @@
 # Exercise 0: Refresher on SAP BTP Basics
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 

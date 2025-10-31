@@ -1,6 +1,6 @@
 # Exercise 4: Validate your BTP Solution Diagram
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 
@@ -12,6 +12,8 @@
 > - Understand Validator warnings and how to address them
 >
 > **Duration**: ~10 minutes
+
+<br/>
 
 ## The Architecture Validator
 
