@@ -81,14 +81,16 @@ SAP Architecture Center now enables you to create a new, structured, reference a
 
 Quick Start enables you to edit your contribution directly in the browser or insert content from a file. Today, we'll use a contribution that has already been drafted in a Word document.
 
-2. Hover over **Insert** and click on **File**
+1. Hover over **Insert** and click on **File**
    ![Insert from File](./images/file-insert-click.png)
-3. Upload this [Word document](Ref-Doc-Arch.docx) describing your reference architecture
-4. Remove the placeholder text under the **Architecture Diagram** heading
-5. Hover over **Insert** and click on **Draw.io Diagram**
+2. Upload this [Word document](Ref-Doc-Arch.docx) describing your reference architecture
+3. Remove the placeholder text under the **Architecture Diagram** heading
+4. Hover over **Insert** and click on **Draw.io Diagram**
    ![Insert draw.io Diagram](./images/drawio-insert.png)
-6. Upload your modified diagram from the previous exercises
+5. Upload your modified diagram from the previous exercises
    ![Diagram Uploaded](./images/diagram-uploaded.png)
+
+<br/>
 
 ## Step 4: Celebrate!
 
