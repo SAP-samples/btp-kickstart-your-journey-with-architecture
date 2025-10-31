@@ -11,8 +11,8 @@ Architect, cost, and plan an SAP BTP use case in this hands-on session. Using as
 
 ## Exercises
 
-|                                                                                      |
-| ------------------------------------------------------------------------------------ |
+| &nbsp;                                                                                   |
+| ---------------------------------------------------------------------------------------- |
 | [0 — **Refresher on SAP BTP Basics**](./exercises/ex0/)                                  |
 | [1 — **Explore the SAP Architecture Center**](./exercises/ex1/)                          |
 | [2 — **Explore the SAP Discovery Center Service Catalog & Estimator**](./exercises/ex2/) |
