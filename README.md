@@ -68,7 +68,7 @@ Let's take a look at the specific reference architecture we'll use as the founda
 
 > [!NOTE]
 >
-> Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills. Check out this [additional reading](./addtl-readings/Joule.md) on these topics.
+> Before we dive deep into the architecture itself, we must understand Joule, Joule Studio, and Joule Skills. Check out this [additional reading](./extra-readings/Joule.md) on these topics.
 
 <br/>
 
