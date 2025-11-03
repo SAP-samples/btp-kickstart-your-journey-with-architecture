@@ -10,30 +10,30 @@
 >
 > - Learn about the BTP Servcies Catalog on SAP Discovery Center<br>
 >
->    [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices)<br>
+>    [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices <br>
 > - Get to know the SAP Business Accelerator Hub, SAP's central repository offering all kinds of Business Content making it easy to start and implement projects on SAP Business Technology Platform. <br>
 > 
->   [SAP Business Accelerator Hub ](https://api.sap.com//viewServices)
-> <br>
+>   [SAP Business Accelerator Hub ](https://api.sap.com//viewServices) <br>
 > - Learn how the SAP BTP Estimator tool on SAP Discovery Center helps you estimating the platform cost for your scenarios.  
->
+><br>
 > **Duration**: ~10 minutes <br>
 
 <br/>
 
 ## Step 1: Evaluating details for SAP BTP's services  <br/>
-As you now have an undersatnding about the necessary BTP services that are part of the chosen architecture you decide to get additional knowledge about the different services (as an example for this we are taking the "SAP Build Process Automation" service)
+As you now have an understanding about the necessary BTP services that are part of the chosen architecture, you decide to get additional knowledge about the different services. (We are going to take the "SAP Build Process Automation" service as an example)<br>
+
 1. On the "Extend Joule with Joule Studio" page in SAP Architecture Center drill down to the list of services and components of the given architecture.<br>
 
 ![Architecture Explorer2](./images/12.png)<br>
 
-2. Choose "SAP Build Process Automation" to get details on theis BTP Service
+2. Choose "SAP Build Process Automation" to get to the details of the respective BTP Service.
 
 This will open up a new tab/window leading you back to the "SAP Discovery Center" and show the respective page of the chosen service from the Service Catalog<br>
 
-![Architecture Explorer2](./images/13.png)<br>
+![Architecture Explorer3](./images/13.png)<br>
 
-3. Quickly use the features to understand the services' purpose, you can also have a look at the "Customer Stories" or "Related AI Offerings" to understand the usage of the service a bit better.<br>
+3. Quickly use the features to understand the services' purpose; you can also have a look at the "Customer Stories" or "Related AI Offerings" to understand the usage for the service a bit better.<br>
 
 As you know that SAP BTP does not only provide technical services but also Business Content, you want to know, if there is already some content available for your service.<br>
 
@@ -43,42 +43,59 @@ This will open up a new tab/window opening the product page for SAP Build Proces
 
 ## Step 2: Browsing Business Content for SAP BTP on SAP Business Accelerator Hub
 
-The page outlines the availability and the definition and documentation of an OData as well as a rest-based API as well as a link to the general service documentation.<br>
+The page outlines the availability and the definition and documentation of an OData as well as a rest-based API, as well as a link to the general service documentation.<br>
 
 5. Click on "REST API" to also discover details of the possibilities
 
 ![Business Accelerator Hub](./images/14.png)<br>
 
-Looking at the general navigation of Business Accelerator Hub,you will also find the link to the pre-packaged integrations for the SAP Integration Suite as well as the available Data Products for the SAP Business Data Cloud offering. 
-As you know that "SAP Build Process Automation" is part of the SAP Build Bundle, you want decide to further drill down into the "SAP Build" section.<br>
+Looking at the general navigation of Business Accelerator Hub, you will also find the link to the pre-packaged integrations for the SAP Integration Suite as well as the available Data Products for the SAP Business Data Cloud offering and a section for SAP Build - SAP BTP's portfolio for Application Development and Automation. 
+As you know that "SAP Build Process Automation" is part of the SAP Build Bundle, you decide to further drill down into the "SAP Build" section.<br>
 
-6. Navigate to the general content space for SAP Build<br>
+6. Navigate to the general content space for "SAP Build" in the top Navigation <br>
 
 ![SAP Build Content](./images/15.png)<br>
 
-7. Browse through the available SAP Build Content to get an understanding about the different types that are available.<br>
+7. Browse through the available SAP Build Content to get an understanding about the different types that are available. Use the filter to see the different types of content that are offered for SAP Build. <br>
 
-Unfortunately, currently there is no SAP Build content available for your given scenario, so you decide to go back to the Discovery Center
+Unfortunately, currently there is no SAP Build content available for your given scenario, so you decide to go back to the Discovery Center. <br>
 
-8. Close the SAP Business Accelerator Hub Tab/Window and return to the SAP Build Process Automation Page from the Service Catalog of the SAP Discovery Center
+🧠 **Knowledge check:**
+
+<details>
+    <summary>
+        Which four different kinds of project related content packages are currently available for SAP Build?
+    </summary>
+     The four different types of project content that can be downloaded for SAP Build are:<br>
+     - Task Automations<br>
+     - Business Processes<br>
+     - Live Processes<br>
+     - Full Stack Applications<br>
+
+</details>
+<br>
+
+8. Close the SAP Business Accelerator Hub Tab/Window and return to the SAP Build Process Automation Page from the Service Catalog of the SAP Discovery Center. <br/>
+<br/>
+
 
 ## Step 2: Estimating Costs for a given scenario
 
 To achieve a cost estimation for a scenario you need to understand the commercial situation and the metrics of the required services.
 
-9. Navigate to the "Pricing" Tab of the "SAP Build Process Automation" Page
+9. Navigate to the "Pricing" tab of the "SAP Build Process Automation" page.
 
 ![SAP Build Content](./images/16.png)<br>
 
-10. Find the commercial model drop-box to see the different models that are available for this service, choose BTPEA. <br>
+10. Find the commercial model drop-box to see the different models that are available for this service, choose "BTPEA". <br>
 
-11. Understand the different sections for the different service plans that are available for this service, and that there is also a "free Tier" service plan available for the consumption-based contracts, that allows you a free service usage with certain restrictions (described in the service plan section)
+11. Understand the different sections for the different service plans that are available for this service, and that there is also a "free-tier" service plan available for the consumption-based contracts, that allows you a free service usage with certain restrictions (described in the service plan section)
 
 12. Navigate to the "Standard User" service plan and read the description to understand that this will be the required license/service plan for the end-users of the scenario.
 
 13. Add this service plan to the estimator (click add to estimator button and a short message will appear that it has been added)
 
-14. Also add "Advanced User" service plan to the estimator accordingly as the description shows that this is the required plan for users that will create or administer scenarios in SAP Build Process Automation.
+14. Also add the "Advanced User" service plan to the estimator accordingly as the description shows that this is the required plan for users that will create or administer scenarios in SAP Build Process Automation.
 
 As you have added the required service plans for SAP Build Process Automation for your scenario now, open up the estimator.
 
