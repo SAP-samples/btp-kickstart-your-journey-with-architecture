@@ -1,123 +1,102 @@
-# Fast Track Adoption of SAP Business Technology Platform
-
-<!-- Please include descriptive title -->
-
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+# Kickstart your SAP BTP Journey with Architectures and Use Cases
 
 ## Description
 
 Architect, cost, and plan an SAP BTP use case in this hands-on session. Using assets from the SAP Architecture Center, Discovery Center, and BTP Guidance Framework, you will design a solution architecture for a real-world scenario, estimate its cost, and create a high-level implementation plan. Leave with a repeatable methodology for bringing your enterprise solutions from concept to reality.
 
-## Requirements
+## Lab Requirements
 
-- [A GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 - [An SAP Account](https://www.sap.com/account.html)
+- [A GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
-## Session Outline
+## Exercises
 
-**Introduction**
+| #   | Title                                                                                |
+| --- | ------------------------------------------------------------------------------------ |
+| 0   | [**Refresher on SAP BTP Basics**](./exercises/ex0/)                                  |
+| 1   | [**Explore the SAP Architecture Center**](./exercises/ex1/)                          |
+| 2   | [**Explore the SAP Discovery Center Service Catalog & Estimator**](./exercises/ex2/) |
+| 3   | [**Extending a Reference Architecture in draw.io**](./exercises/ex3/)                |
+| 4   | [**Validate your BTP Solution Diagram**](./exercises/ex4/)                           |
+| 5   | [**Make your Reference Architecture Official**](./exercises/ex5/)                    |
 
-15 min
+## Case Study — Consolidating Payroll Information
 
-- Agenda & high-level session outcome description
-- Refresher on SAP BTP concepts
-- Short session outcome demo/click-through (TBD: outcome of [Joule Skills mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4643/))
-- Brief introductions for each of the following:
-  - [SAP Discovery Center](https://discovery-center.cloud.sap/)
-  - [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)
-  - [SAP Architecture Center](https://architecture.learning.sap.com/)
-- Articulate specific session goals:
-  - How will the resources above empower attendees?
-  - What knowledge & skills will attendees leave this session with?
-- Reminder: GitHub & SAP accounts are required
-- Explainer: How to follow along with session exercises & content in GitHub
+Resource: [Interactive Value Journey — Designing custom Joule skills in Joule Studio](https://url.sap/skilldesign)
 
-**Exercise 1: Navigating the Core Resources**
+### Status Quo
 
-10 min
+Our enterprise, **BestRun**, uses **SAP SuccessFactors** as its core HR system, but handles payslips and tax documents through a third-party provider, **SecurePayroll**.
 
-- Goal: Familiarize attendees with SAP Discovery Center, SAP BTP Guidance Framework, and SAP Architecture Center
-- Scavenger hunt & quiz
-  - Attendees can bookmark resources as they go along
-  - Start on the SAP Discovery Center homepage
-  - Find the SAP BTP Guidance Framework
-  - Find the SAP Architecture Center
-  - Use the provided hints & tags to find the specific architecture we will dive into during this session
-  - End with a short 3-5 question quiz
+### Desired Outcome
 
-**Diving into a Reference Architecture**
+We would like to empower employees to access their payroll, tax information, and core HR services seamlessly from one simple interface, thereby improving response times and reducing HR support tickets.
 
-15 min
+### Proposed Solution
 
-- Start with the [Joule skills architecture](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
-- Introduce content needed to understand the architecture, focus on:
-  - Joule
-  - Joule skills
-  - Joule studio
-- [Draw.io](https://app.diagrams.net/) introduction & setup demo
-- SAP BTP Guidance Framework resources:
-  - [SAP BTP Solution Diagram Design Repository](https://sap.github.io/btp-solution-diagrams/)
-  - [SAP BTP AI Best Practices](https://btp-ai-bp.docs.sap/)
+Create **Joule skills** to...
 
-**Exercise 2: Modifying an Architecture in Draw.io**
+> _Enable employees to securely access payslips and tax documents from third-party payroll systems directly within SAP SuccessFactors using Joule. Simplifies the user experience by removing the need for separate logins and streamlines payroll communication to HR._
 
-15 min
+The video below showcases our proposed solution.
 
-- Include a simple suggested modification to the architecture diagram
-- Enable the SAP draw.io extension
-- Reference the [SAP BTP Solution Diagram Design Repository](https://sap.github.io/btp-solution-diagrams/) as needed
-- Delete unnecessary connections & boxes, add desired/suggested modifications
+<br/>
 
-**Extending the Reference Architecture**
+![Testing the Joule Skill](./media/testing-the-joule-skill.gif)
 
-10 min
+<br/>
 
-- Add a complex functional requirement that presents an architecture change - ex. implementing SAP Document AI and Document Grounding
-- Demo using SAP Discovery Center's Services Catalog & Service Estimator
-- Demo using SAP Discovery Center's AI Catalog & AI Estimator
+> [!NOTE]
+>
+> The conversation is shown in Joule Studio's test environment. Upon deployment, the defined custom skill will be accessible through Joule in SAP SuccessFactors.
 
-**Exercise 3: Pulling It All Together**
+<br/>
 
-20 min
+## A Reference Architecture Starting Point
 
-- Use the Services/AI Catalogs to identify components needed to update the diagram
-- Make the changes in Draw.io
-- Use the pricing estimators to figure out the delta in adding the new functionality
-  - Ideally multiple pricing models should be covered/represented
-- Quiz to verify the pricing calculation
+Let's take a look at the specific reference architecture we'll use as the foundation for the remaining exercises:
 
-**SAP Architecture Center - New Features**
+[**Extend Joule with Joule Studio**](https://architecture.learning.sap.com/docs/ref-arch/06ff6062dc)
 
-5 min
+> _This reference architecture outlines how Joule Studio can be leveraged to integrate and extend SAP and non-SAP solutions across cloud and hybrid landscapes. By tapping into the expertise of citizen developers, Joule Studio facilitates the adaptation, improvement, and innovation of business processes, driving positive business outcomes through sophisticated AI capabilities._
 
-- Introduce the Architecture Validator & Quick-start Features
+<br/>
 
-**Exercise 4: Validate your Architecture Diagram**
+![Extend Joule with Joule Studio Diagram](./images/joule-studio-ref-arch.svg)
 
-5 min
+<br/>
 
-- The diagram should be near its final form, use the validator tool to spot any issues
-- Make changes in Draw.io to address any warnings raised by the validator
+> [!NOTE]
+>
+> Before we explore the architecture in detail, it's important to understand Joule, Joule Studio, and Joule Skills. Check out this [additional reading](./extra-readings/Joule.md) on these topics.
 
-**Exercise 5: Making your Reference Architecture Official**
+<br/>
 
-10 min
+## SAP Architecture Center's Community of Practice
 
-- Your diagram has significant changes from the original, update the accompanying documentation using the Quick-start feature
-- Insert your completed diagram
-- Publish!
+By the end of this lab, you will have completed many of the steps required for a contribution to the SAP Architecture Center. Here's what's left to do:
 
-**SAP Architecture Center's Community of Practice**
+<br/>
 
-5 min
+![Community of Practice Flowchart](./images/community-of-practice.svg)
 
-- You've completed most of the required steps for a contribution in this session, we'll show you what's left to do.
+<br/>
 
-**Recap and Outro**
+## Implementation & Beyond
 
-5 min
+With your solution architecture, cost estimate, and high-level plan in hand, you are ready to begin implementation. The SAP Discovery Center Mission provided below is an excellent starting point, offering a guided, hands-on experience to build out a similar scenario.
+
+SAP Discovery Center Mission — [Build custom Joule skills for SAP and non-SAP systems using Joule Studio](https://discovery-center.cloud.sap/missiondetail/4643/4932/)
+
+By completing this lab, you have gained a repeatable methodology for bringing your enterprise solutions from concept to reality. You have learned how to:
+
+- Navigate the SAP Architecture Center to find reference architectures for your use cases.
+- Utilize the SAP Discovery Center to explore BTP services and estimate the cost of your solution.
+- Adapt and extend a reference architecture to meet your specific business requirements.
+- Validate your solution diagram against the SAP BTP Guidance Framework.
+- Understand the process for contributing your work back to the SAP community.
+
+You are now equipped with the foundational skills to architect, cost, and plan your own SAP BTP use cases.
 
 ## Known Issues
 
@@ -125,7 +104,7 @@ No known issues.
 
 ## How to obtain support
 
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/btp-kickstart-your-journey-with-architecture/issues) in this repository if you find a bug or have questions about the content.
 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
