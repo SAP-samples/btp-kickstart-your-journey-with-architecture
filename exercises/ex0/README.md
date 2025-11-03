@@ -9,8 +9,7 @@
 > **Learning Objectives**:
 >
 > - Get a general understanding or recap of the core concepts of SAP Business Technology Platform.<br>
-> - Introduction to some major information resources for SAP BTP: <br>
->   [SAP Discovery Center](https://discovery-center.cloud.sap/)<br> > [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)<br>
+> - Introduction to some major information resources for SAP BTP: <br> > [SAP Discovery Center](https://discovery-center.cloud.sap/)<br> > [SAP BTP Guidance Framework](https://discovery-center.cloud.sap/guidance-framework)<br>
 >
 > **Duration**: ~10 minutes <br>
 
@@ -21,15 +20,16 @@ The best starting point for any information on SAP BTP and SAP Business AI is th
 1. Navigate to [SAP Discovery Center](https://discovery-center.cloud.sap). <br>
    ![Navigate to Discovery Center](./images/1.png)<br/>
 
-Hint: You may want to create a bookmark for the SAP Discovery Center!
+   Hint: You may want to create a bookmark for the SAP Discovery Center!
 
 2. Have a look at the content on the main page. The SAP Discovery Center offers all kinds of information on what SAP BTP can do, how it can be used, and what SAP's customers are using it for. It is divided into four main sections:
+
    - Missions
    - SAP BTP Guidance Framework
    - The BTP Service Catalog with cost estimator
    - AI Scenario Catalog with cost estimator
 
-![Navigate to Guidance framework](./images/2.png)<br>
+   ![Navigate to Guidance framework](./images/2.png)<br>
 
 3. Let's start by looking at the SAP BTP Guidance Framework. <br/>
    Press the **SAP BTP Guidance Framework** tile.
@@ -52,7 +52,7 @@ The SAP BTP Administrator's Guide covers the information to administer the BTP p
 7. To learn about or recap the basic concepts of SAP BTP, navigate to the **Basic Platform Concepts** section.
    <br/>
 
-![Basic Platform Concepts](./images/6.png) <br>
+   ![Basic Platform Concepts](./images/6.png) <br>
 
 8. Make sure that you have a basic understanding of the concepts and dependencies of:
 

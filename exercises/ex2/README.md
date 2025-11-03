@@ -27,21 +27,21 @@ Now that you understand the BTP services required for the chosen architecture, y
 
 1. On the "Extend Joule with Joule Studio" page in the SAP Architecture Center, scroll down to the list of services and components for the architecture.<br>
 
-![Architecture Explorer2](./images/12.png)<br>
+   ![Architecture Explorer2](./images/12.png)<br>
 
 2. Choose "SAP Build Process Automation" to view details for that BTP service.
 
-This opens a new tab/window, taking you to the service's page in the SAP Discovery Center Service Catalog.<br>
+   This opens a new tab/window, taking you to the service's page in the SAP Discovery Center Service Catalog.<br>
 
-![Architecture Explorer3](./images/13.png)<br>
+   ![Architecture Explorer3](./images/13.png)<br>
 
 3. Quickly review the features to understand the service's purpose. You can also look at "Customer Stories" or "Related AI Offerings" for usage examples.<br>
 
-SAP BTP provides technical services and business content. Next, you'll check if there is any pre-existing content available for this service.<br>
+   SAP BTP provides technical services and business content. Next, you'll check if there is any pre-existing content available for this service.<br>
 
 4. Navigate to "SAP Build Process Automation" in the "Integration Content" section. <br>
 
-This opens a new tab/window with the product page for SAP Build Process Automation on the "SAP Business Accelerator Hub," the central repository for business content for services on SAP BTP.
+   This opens a new tab/window with the product page for SAP Build Process Automation on the "SAP Business Accelerator Hub," the central repository for business content for services on SAP BTP.
 
 ## Step 2: Browsing Business Content on SAP Business Accelerator Hub
 
@@ -49,18 +49,19 @@ The page outlines the availability, definition, and documentation of an OData an
 
 5. Click on "REST API" to discover details of the available operations.
 
-![Business Accelerator Hub](./images/14.png)<br>
+   ![Business Accelerator Hub](./images/14.png)<br>
 
 Looking at the general navigation of the Business Accelerator Hub, you will also find a link to pre-packaged integrations for SAP Integration Suite, available Data Products for the SAP Datasphere offering, and a section for SAP Build - SAP BTP's portfolio for Application Development and Automation.
+
 Since "SAP Build Process Automation" is part of the SAP Build portfolio, you decide to drill down into the "SAP Build" section.<br>
 
 6. Navigate to the general content space for "SAP Build" in the top navigation. <br>
 
-![SAP Build Content](./images/15.png)<br>
+   ![SAP Build Content](./images/15.png)<br>
 
 7. Browse the available SAP Build Content to understand the different types available. Use the filter to see the different content types offered for SAP Build. <br>
 
-Unfortunately, no SAP Build content is currently available for your scenario, so you decide to go back to the Discovery Center. <br>
+   Unfortunately, no SAP Build content is currently available for your scenario, so you decide to go back to the Discovery Center. <br>
 
 🧠 **Knowledge check:**
 
