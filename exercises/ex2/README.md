@@ -97,7 +97,7 @@ The SAP BTP Estimator helps you get an understanding on the cost of a specific s
 
 Be aware that BTP uses active users as user metric and that you are calculating for a consumption based model (BTPEA) This means that these values reflect the actual number of users of the service over the course of one month for the overall period of a full year! Less consumption/usage in some months will save credits for months of higher usage...
 
-Have a look at the screen. You now have estimated the cost for users and creators of the Process Automation service as part of the scenario. Be aware that these users are not restricted to a certain scenario - if SAP Process Automation is used by the Users of your applications in other scenarios these costs can also be splitted in usage (see the splited circle symbol besides the trashcan) <br>
+Have a look at the screen. You now have estimated the cost for end users and creators of the Process Automation service as part of the scenario. Be aware that these users are not restricted to a certain scenario - if SAP Process Automation is used by the Users of your applications in other scenarios these costs can also be splitted in usage (see the splited circle symbol besides the trashcan) <br>
 If you want to create an estimation for a full scenario, you will be able to add all BTP services with the respective plan(s) here to do your estimations. (either by pressing the "add services" button or by simply browsing the catalog and adding on the respective service pages) <br>
 To collaborate, share and discuss your estimations with colleagues and partners you have the possibility to manage, configure, personalize and share several different estimations if you register and log-in to the discovery center.<br>
 
