@@ -10,7 +10,7 @@
 >
 > - Learn about the BTP Servcies Catalog on SAP Discovery Center<br>
 >
->    [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices <br>
+>    [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices) <br>
 > - Get to know the SAP Business Accelerator Hub, SAP's central repository offering all kinds of Business Content making it easy to start and implement projects on SAP Business Technology Platform. <br>
 > 
 >   [SAP Business Accelerator Hub ](https://api.sap.com//viewServices) <br>
