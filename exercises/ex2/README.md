@@ -1,6 +1,6 @@
 # Exercise 2: Using further resources to get information on SAP BTP's services and content
 
-[**< Return to the main page**](../../)
+[< Return to the main page](../../)
 
 <br/>
 
@@ -8,9 +8,16 @@
 >
 > **Learning Objectives**:
 >
-> - Example learning objective
+> - Learn about the BTP Servcies Catalog on SAP Discovery Center<br>
 >
-> **Duration**: ~10 minutes
+>    [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices)<br>
+> - Get to know the SAP Business Accelerator Hub, SAP's central repository offering all kinds of Business Content making it easy to start and implement projects on SAP Business Technology Platform. <br>
+> 
+>   [SAP Business Accelerator Hub ](https://api.sap.com//viewServices)
+> <br>
+> - Learn how the SAP BTP Estimator tool on SAP Discovery Center helps you estimating the platform cost for your scenarios.  
+>
+> **Duration**: ~10 minutes <br>
 
 <br/>
 
@@ -81,34 +88,26 @@ As you have added the required service plans for SAP Build Process Automation fo
 
 The estimator page is going to show up:<br>
 
-![SAP Build Content](./images/18.png)<br>
+![SAP BTP Estimator](./images/18.png)<br>
+The SAP BTP Estimator helps you get an understanding on the cost of a specific scenario.
 
 16. You can name your estimation and check on calculation period, commercial model and further general settings by pressing on the pencil symbol
 
-17. Make sure to select the preferred region of deployment as well as the needed number of users for both of the service plans added to the estimator<br>
+17. Make sure to select the preferred region of deployment as well as the needed number of users for both of the service plans added to the estimator, select "30" standard users and "5" advanced users.<br>
 
-Be aware that BTP uses active users as user metric and that you are calculating for a consumption based model (BTPEA) This means that these values reflect the actual number of users of the service over the course of one month for the overall period of a full year! Less consumption/usage in some month will save credits for months of high usage...
+Be aware that BTP uses active users as user metric and that you are calculating for a consumption based model (BTPEA) This means that these values reflect the actual number of users of the service over the course of one month for the overall period of a full year! Less consumption/usage in some months will save credits for months of higher usage...
 
-If you want to create an estimation for a full scenario, you will be able to add all BTP services with the respective plan(s) here to do your estimations. 
+Have a look at the screen. You now have estimated the cost for users and creators of the Process Automation service as part of the scenario. Be aware that these users are not restricted to a certain scenario - if SAP Process Automation is used by the Users of your applications in other scenarios these costs can also be splitted in usage (see the splited circle symbol besides the trashcan) <br>
+If you want to create an estimation for a full scenario, you will be able to add all BTP services with the respective plan(s) here to do your estimations. (either by pressing the "add services" button or by simply browsing the catalog and adding on the respective service pages) <br>
+To collaborate, share and discuss your estimations with colleagues and partners you have the possibility to manage, configure, personalize and share several different estimations if you register and log-in to the discovery center.<br>
 
-18. Select the "Add services" button
+🧠 **Knowledge check:**
 
-![SAP Add Services](./images/19.png)<br>
+<details>
+    <summary>
+        What is the BTP "Free Tier" option? Are all BTP Customers entitled to use the free-tier service plans?
+    </summary>
 
-Let's add a more complex service from our scenario to the estimation
-
-![AI Core](./images/20.png)
-
-19. Search for AI Core and add it to the estimation (press ok when finished)
-
-Some services have more complex metrics. For these services SAP offers separate calculators.
-
-![AI Core estimator ](./images/21.png)
-
-20. Click the calculator symbol to open the AI Core Capacity Unit Calculator
-
-(21. Agree to the disclaimer if it pops up)
-
-
-
-If you log-in into SAP Discovery Center you can also save and share your estimates with your colleagues or partners.
+     The free-tier offering lets you try out SAP BTP in a per service defined time span for free. These account types enable you to test your scenarios and generally offer the option to upgrade to paid service plans. These accounts also allow you to store data long-term and move projects to production.
+     Only the consumption-based contracting models of SAP BTP (CPEA, BTPEA, Pay-as-you-go) include the entitlements to use the free-tier service plans.
+</details>

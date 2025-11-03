@@ -8,9 +8,13 @@
 >
 > **Learning Objectives**:
 >
-> - Example learning objective
+> - Get an overview about the SAP Architecture Center<br>
 >
-> **Duration**: ~10 minutes
+>    [SAP Architecture Center](https://architecture.learning.sap.com/)<br>
+> - Navigate within architecture center, get an understanding about the available content and understand the structure of the described architectures and the provided content in detail
+>  
+>
+> **Duration**: ~10 minutes <br>
 
 <br/>
 
@@ -35,10 +39,11 @@ As you are looking for a reference architecture to support the extension of Joul
 
 ![Architecture Center](./images/9.png) <br>
 
-6. Have a look at the recommended items. Choose the scenario that fots your case ("Extending Joule with Joule Studio")<br>
+6. Have a look at the recommended items. Choose the scenario that fits your case ("Extending Joule with Joule Studio")<br>
 
 ![Architecture Explorer2](./images/10.png)<br>
 
 7. Get familiar with the structure how the SAP Architecture Center describes the reference architectures in detail. Have a look at the list of services and components and use the solution diagramm and the flow description to understand the architecture that is described.
 
 ![Architecture Explorer2](./images/11.png)<br>
+
