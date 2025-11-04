@@ -1,6 +1,6 @@
 # Exercise 2: Exploring SAP BTP Services and Content
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 
@@ -8,16 +8,17 @@
 >
 > **Learning Objectives**:
 >
-> - Learn about the BTP Services Catalog in the SAP Discovery Center.<br>
+> - Learn about the BTP Services Catalog in the SAP Discovery Center.
 >
->   [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices) <br>
+>   [SAP BTP Services Catalog ](https://discovery-center.cloud.sap/viewServices)
 >
-> - Get to know the SAP Business Accelerator Hub, SAP's central repository for business content that simplifies starting and implementing projects on SAP Business Technology Platform. <br>
+> - Get to know the SAP Business Accelerator Hub, SAP's central repository for business content that simplifies starting and implementing projects on SAP Business Technology Platform.
 >
->   [SAP Business Accelerator Hub ](https://api.sap.com/) <br>
+>   [SAP Business Accelerator Hub ](https://api.sap.com/)
 >
-> - Learn how to use the SAP BTP Estimator tool in the SAP Discovery Center to estimate platform costs for your scenarios.  
->   <br> > **Duration**: ~10 minutes <br>
+> - Learn how to use the SAP BTP Estimator tool in the SAP Discovery Center to estimate platform costs for your scenarios.
+>
+> **Duration**: ~10 minutes
 
 <br/>
 
@@ -132,3 +133,5 @@ To collaborate, share, and discuss your estimations with colleagues and partners
         Only the consumption-based contracting models of SAP BTP (CPEA, BTPEA, Pay-as-you-go) include the entitlements to use the free-tier service plans.
     </p>
 </details>
+
+[**< Return to the main page**](../../)

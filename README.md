@@ -92,8 +92,8 @@ By completing this lab, you have gained a repeatable methodology for bringing yo
 
 - Navigate the SAP Architecture Center to find reference architectures for your use cases.
 - Utilize the SAP Discovery Center to explore BTP services and estimate the cost of your solution.
+- Leverage the SAP BTP Guidance Framework for guides, methodologies, and more.
 - Adapt and extend a reference architecture to meet your specific business requirements.
-- Validate your solution diagram against the SAP BTP Guidance Framework.
 - Understand the process for contributing your work back to the SAP community.
 
 You are now equipped with the foundational skills to architect, cost, and plan your own SAP BTP use cases.

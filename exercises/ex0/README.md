@@ -1,6 +1,6 @@
 # Exercise 0: Refresher on SAP BTP Basics
 
-[< Return to the main page](../../)
+[**< Return to the main page**](../../)
 
 <br/>
 
@@ -78,3 +78,5 @@ The SAP BTP Administrator's Guide covers the information to administer the BTP p
         <li><strong>SAP Data and Analytics Advisory Methodology (DAAM)</strong>: Supports the development of tailored solution architectures for data-driven business outcomes and planning of their implementation.</li>
     </ul>
 </details>
+
+[**< Return to the main page**](../../)

@@ -47,3 +47,5 @@ To follow up on the given requirements, you decide to see if there are any guide
 7.  Get familiar with the structure of how the SAP Architecture Center describes the reference architectures in detail. Have a look at the list of services and components, and use the solution diagram and the flow description to understand the described architecture.
 
     ![Architecture Explorer2](./images/11.png)
+
+[**< Return to the main page**](../../)
