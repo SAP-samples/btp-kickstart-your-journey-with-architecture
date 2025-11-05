@@ -28,11 +28,11 @@ In this exercise you will learn how to turn your new reference architecture into
 
 ## Step 1: Enable the Quick Start Feature
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > The Quick Start feature uses a GitHub OAuth application to fork the [SAP Architecture Center GitHub repository](https://github.com/SAP/architecture-center), create a commit for your contribution, and open a pull request on your behalf.
 >
-> If you do not want to provide the OAuth app access to your GitHub account, you can simply follow along with the demo. If you have already provided access to the OAuth app and want to revoke its access after you have completed the exercise, follow [GitHub's docs here](https://docs.github.com/en/apps/oauth-apps/using-oauth-apps/reviewing-your-authorized-oauth-apps).
+> If you do not want to provide the OAuth app access to your GitHub account or your organization's settings prevent you from doing so, you may want to create a new account specifically for this lab. If you have already provided access to the OAuth app and want to revoke its access after you have completed the exercise, follow [GitHub's docs here](https://docs.github.com/en/apps/oauth-apps/using-oauth-apps/reviewing-your-authorized-oauth-apps).
 
 SAP Architecture Center now enables you to create a new, structured, reference architecture contribution without needing to use a code editor like VS Code. You can use the [modified](../ex3/drawio/joule-studio-ref-arch-modified.drawio) (or [extended](../ex3/drawio/joule-studio-ref-arch-extended.drawio)) draw.io files from exercise 3 as the foundation for your contribution in Quick Start.
 
