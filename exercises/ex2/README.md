@@ -1,4 +1,4 @@
-# Exercise 2: Exploring SAP BTP Services and Content
+# Exercise 2: Explore SAP BTP Services and Content
 
 [**< Return to the main page**](../../)
 
