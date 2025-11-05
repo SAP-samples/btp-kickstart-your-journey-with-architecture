@@ -2,7 +2,7 @@
 
 [**< Return to the main page**](../)
 
-Resource: [Deep Dive into Joule](https://content-discovery.int.sap/assets/0b75b63a-14aa-48c1-b745-f6439a7077a6?referer=%2F%3FtextSearch%3DDeep%2BDive%2Binto%2BJoule)
+Resource: [Get Started with Joule](https://dam.sap.com/mac/u/a/APxRuD8?rc=10&doi=SAP1244596)
 
 > _Joule, the AI copilot that truly understands your business._
 
