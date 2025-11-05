@@ -64,7 +64,7 @@ SAP Architecture Center now enables you to create a new, structured, reference a
    **Tags**
 
    ```
-   Integration, SAP Build
+   Application Development & Automation, Generative AI, Integration, Agents, SAP Build
    ```
 
    <br/>
