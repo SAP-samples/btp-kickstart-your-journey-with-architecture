@@ -134,4 +134,6 @@ To collaborate, share, and discuss your estimations with colleagues and partners
     </p>
 </details>
 
+<br/>
+
 [**< Return to the main page**](../../)

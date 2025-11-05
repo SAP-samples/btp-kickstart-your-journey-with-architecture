@@ -98,4 +98,6 @@ Quick Start enables you to edit your contribution directly in the browser or ins
 
 Congratulations on completing all of the exercises in this lab session, we hope you enjoyed the journey!
 
+<br/>
+
 [**< Return to the main page**](../../)

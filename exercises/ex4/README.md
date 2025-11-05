@@ -92,6 +92,7 @@ After completing the steps above, you should have encountered **2 warnings**.
         <br/><br/>Second, it is a best practice to group SAP Build Process Automation within SAP Build for additional clarity.
     </p>
 </details>
+
 <br/>
 
 [**Continue to Exercise 5 >**](../ex5/)

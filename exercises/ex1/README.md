@@ -48,4 +48,6 @@ To follow up on the given requirements, you decide to see if there are any guide
 
     ![Architecture Explorer2](./images/11.png)
 
+<br/>
+
 [**< Return to the main page**](../../)

@@ -177,6 +177,7 @@ Can you find it in the [SAP Discovery Center's AI Catalog](https://discovery-cen
     <br/>
     <img src="./images/joule-studio-ref-arch-extended.drawio.svg" alt="Extended Joule Studio Reference Architecture Diagram"/>
 </details>
+
 <br/>
 
 [**Continue to Exercise 4 >**](../ex4/)
