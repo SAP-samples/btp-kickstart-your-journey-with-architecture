@@ -36,7 +36,7 @@ In this exercise you will learn how to turn your new reference architecture into
 
 SAP Architecture Center now enables you to create a new, structured, reference architecture contribution without needing to use a code editor like VS Code. You can use the [modified](../ex3/drawio/joule-studio-ref-arch-modified.drawio) (or [extended](../ex3/drawio/joule-studio-ref-arch-extended.drawio)) draw.io files from exercise 3 as the foundation for your contribution in Quick Start.
 
-1. Navigate to the [SAP Architecture Center](https://architecture.learning.sap.com/@preview/releasev2/) homepage and click **Login with GitHub**.
+1. Navigate to the [SAP Architecture Center](https://architecture.learning.sap.com/) homepage and click **Login with GitHub**.
    ![Login with GitHub](./images/login-with-github.png)
 2. Open **Quick Start**.
    ![Open Quick Start](./images/open-quick-start.png)

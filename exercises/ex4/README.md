@@ -33,7 +33,7 @@ An SAP account is required for this exercise, if you do not already have one, [c
 
 ## Step 2: Accessing the Architecture Validator
 
-1. Navigate to the [SAP Architecture Center](https://architecture.learning.sap.com/@preview/releasev2/)
+1. Navigate to the [SAP Architecture Center](https://architecture.learning.sap.com/)
 2. Login with SAP
    ![Login with SAP](./images/login-with-sap.png)
 3. Navigate to the Architecture Validator
@@ -59,7 +59,7 @@ If you used any of the draw.io files from the previous exercise ([starter](../ex
 
 To see examples of Validator warnings, submit a diagram with several mistakes to the validator.
 
-1. Return to the [Architecture Validator](https://architecture.learning.sap.com/@preview/releasev2/architecture-validator)
+1. Return to the [Architecture Validator](https://architecture.learning.sap.com/architecture-validator)
 2. Download this [invalid diagram draw.io file](./drawio/invalid-example.drawio)
 3. Upload the draw.io file to the validator
 
