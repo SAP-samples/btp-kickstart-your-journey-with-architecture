@@ -54,4 +54,3 @@ Resource: [Joule Studio, skill builder (SAP Discovery Center)](https://discovery
 | Action Projects                     | _Allow skills to connect to remote systems (e.g., SAP S/4HANA, SAP Ariba, or Northwind) to fetch or post data via APIs._ |
 | Extensible                          | _Developers and business users can customize skills to align with specific business processes or domain needs._          |
 
----
