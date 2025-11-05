@@ -22,25 +22,25 @@
 
 To follow up on the given requirements, you decide to see if there are any guidelines to support the given case.
 
-1.  Navigate back to the SAP BTP Guidance Framework.
+1.  Navigate back to the SAP BTP Guidance Framework. You want to check if a reference architecture is available that fits your requirements.
+
+2.  Navigate to the **SAP Architecture Center**.
+
     ![Guidance Framework2](./images/7.png)
 
-    You decide to see if a reference architecture is available that fits your requirements.
-
-2.  Navigate to the SAP Architecture Center.
+3.  To get an overview of the content in the Architecture Center, press the **Browse Architectures** button.
 
     ![Architecture Center](./images/8.png)
 
-3.  To get an overview of the content in the Architecture Center, press the "Explore Now" button to go to the Architecture Explorer.
 4.  Browse through the different scenarios to get an understanding of the possibilities and the content provided in the SAP Architecture Center.
 
     Since you are looking for a reference architecture to support extending Joule's capabilities for your end users, you should filter the available reference architectures for those related to artificial intelligence.
 
-5.  Filter the architectures by the "Artificial Intelligence" technology domain.
+5.  Filter the architectures by the **AI & Machine Learning** technology domain.
 
     ![Architecture Center](./images/9.png)
 
-6.  Have a look at the recommended items. Choose the scenario that fits your case ("Extending Joule with Joule Studio").
+6.  Have a look at the filtered categories. Expand the category that fits your case **Integrating and Extending Joule** and then click on the **Extend Joule with Joule Studio** reference architecture.
 
     ![Architecture Explorer2](./images/10.png)
 
