@@ -4,7 +4,7 @@
 
 Architect, cost, and plan an SAP BTP use case in this hands-on session. Using assets from the SAP Architecture Center, Discovery Center, and BTP Guidance Framework, you will design a solution architecture for a real-world scenario, estimate its cost, and create a high-level implementation plan. Leave with a repeatable methodology for bringing your enterprise solutions from concept to reality.
 
-## Lab Requirements
+## Requirements
 
 - [An SAP Account](https://www.sap.com/account.html)
 - [A GitHub Account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
