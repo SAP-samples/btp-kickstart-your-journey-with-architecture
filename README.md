@@ -72,9 +72,9 @@ Let's take a look at the specific reference architecture we'll use as the founda
 
 <br/>
 
-## SAP Architecture Center's Community of Practice
+## SAP Architecture Center | Community of Practice
 
-By the end of this lab, you will have completed many of the steps required for a contribution to the SAP Architecture Center. Here's what's left to do:
+By the end of this lab, you will have completed many of the steps required for a [contribution to the SAP Architecture Center](https://architecture.learning.sap.com/community/intro). Here's what's left to do:
 
 <br/>
 

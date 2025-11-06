@@ -16,7 +16,7 @@ _10:40AM - 12:40PM_
 | Exercise 3: Extending a Reference Architecture in draw.io           | Repo   | Victor        | 20           |
 | Exercise 4: Validate your BTP Solution Diagram                      | Repo   | Victor        | 15           |
 | Exercise 5: Make your Reference Architecture Official               | Repo   | Victor        | 10           |
-| SAP Architecture Center Community of Practice                       | Slides | Victor        | 5            |
+| SAP Architecture Center \| Community of Practice                    | Slides | Victor        | 5            |
 | Session Outro — Implementation & Beyond                             | Slides | Arne          | 5            |
 | Q&A                                                                 | Slides | Arne & Victor | 10           |
 |                                                                     |        |               | **120**      |
