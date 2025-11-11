@@ -32,16 +32,15 @@ The best starting point for any information on SAP BTP and SAP Business AI is th
    ![Navigate to Guidance framework](./images/2.png)<br>
 
 3. Let's start by looking at the SAP BTP Guidance Framework. <br/>
-   Press the **SAP BTP Guidance Framework** tile.
+   Press the **Guidance Assets** button.
 
 ## Step 2: The SAP BTP Guidance Framework
 
 The SAP BTP Guidance Framework provides a central entry point to all kinds of guidance documents for different roles like architects, developers, or administrators.<br/>
 
-![Navigate to Admin Guide](./images/3.png)<br>
-
 4. Have a look at the different sections of the Guidance Framework and the links to get an overview of what kind of methodologies, information, and guidelines can be found in this repository.<br/>
 5. Press the link to the **SAP BTP Administrator's Guide**.
+   ![Navigate to Admin Guide](./images/3.png)<br>
 
 ## Step 3: The SAP BTP Admin Guide
 
