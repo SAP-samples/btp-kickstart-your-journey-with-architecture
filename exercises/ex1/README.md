@@ -14,7 +14,7 @@
 >
 > - Navigate within the SAP Architecture Center, get an understanding of the available content, and understand the structure of the described architectures and the provided content in detail.
 >
-> **Duration**: ~10 minutes <br>
+> **Duration**: ~5 minutes <br>
 
 <br/>
 

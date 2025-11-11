@@ -18,7 +18,7 @@
 >
 > - Learn how to use the SAP BTP Estimator tool in the SAP Discovery Center to estimate platform costs for your scenarios.
 >
-> **Duration**: ~10 minutes
+> **Duration**: ~15 minutes
 
 <br/>
 
