@@ -63,9 +63,9 @@ SAP Architecture Center now enables you to create a new, structured, reference a
 
    **Tags**
 
-   ```
+   _Search and add the following tags:_
+
    Application Development & Automation, Generative AI, Integration, Agents, SAP Build
-   ```
 
    <br/>
 
