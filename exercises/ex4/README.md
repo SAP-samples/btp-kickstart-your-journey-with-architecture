@@ -23,6 +23,12 @@ For this exercise, you will use a tool called the Architecture Validator on the 
 
 The Architecture Validator is a great resource to use alongside the [BTP Solution Diagram Guidelines](https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/big_picture/).
 
+> [!IMPORTANT]
+> 
+> The Architecture Validator enforces a set of rules developed by our architects. You can find the starting set of rules [here in the Community of Practice](https://architecture.learning.sap.com/community/validation-rules). 
+> 
+> In addition to the BTP Solution Diagram Guidelines linked above, there is also a [set of modeling guidelines for the Architecture Validator](https://architecture.learning.sap.com/community/architecture-validator-modelling-guidelines) that ensure diagrams are interpreted and validated correctly.
+
 <br/>
 
 ## Step 1: Ensure You Have an SAP Account
