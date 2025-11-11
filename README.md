@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-kickstart-your-journey-with-architecture)](https://api.reuse.software/info/github.com/SAP-samples/btp-kickstart-your-journey-with-architecture)
+
 # Kickstart your SAP BTP Journey with Architectures and Use Cases
 
 ## Description
