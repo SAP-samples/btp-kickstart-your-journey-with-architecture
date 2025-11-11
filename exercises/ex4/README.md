@@ -11,7 +11,7 @@
 > - Learn how to use the Architecture Validator
 > - Understand Validator warnings and how to address them
 >
-> **Duration**: ~10 minutes
+> **Duration**: ~15 minutes
 
 <br/>
 
