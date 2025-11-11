@@ -50,4 +50,4 @@ To follow up on the given requirements, you decide to see if there are any guide
 
 <br/>
 
-[**< Return to the main page**](../../)
+[**Continue to Exercise 2 >**](../ex2/)
