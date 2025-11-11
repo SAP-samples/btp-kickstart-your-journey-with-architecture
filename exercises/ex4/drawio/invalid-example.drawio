@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Invalid" id="y9jVg47wF9R3pMzEN7vd">
     <mxGraphModel dx="1234" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="560" math="0" shadow="0">
       <root>
@@ -59,20 +59,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rAv230cPATT6Kc9kaS3i-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" parent="rAv230cPATT6Kc9kaS3i-1" vertex="1">
-          <mxGeometry x="950" y="84.4" width="220" height="150" as="geometry" />
+          <mxGeometry x="948" y="107.10000000000001" width="220" height="104.6" as="geometry" />
         </mxCell>
         <mxCell id="rAv230cPATT6Kc9kaS3i-20" value="SAP On-Premise&#xa;Solutions" style="shape=image;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0wLjUgLTAuNSAyNi4wODQgMjgiIGhlaWdodD0iMjgiIHdpZHRoPSIyNi4wODQiPiYjeGE7CSAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3QwIHsgc3RvcC1jb2xvcjogcmdiKDM1LCAxNDksIDI1NSk7IH0gLnN0MSB7IHN0b3AtY29sb3I6IHJnYigwLCA4NywgMjEwKTsgfSA8L3N0eWxlPiYjeGE7CTxkZWZzPiYjeGE7CQk8bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSIyMy43OTIiIHgyPSIyMy4yNTYiIHkxPSIzLjQ3NCIgeDE9IjEuODY1IiBpZD0iQSI+JiN4YTsJCQk8c3RvcCBjbGFzcz0ic3QwIi8+JiN4YTsJCQk8c3RvcCBjbGFzcz0ic3QxIiBvZmZzZXQ9IjEiLz4mI3hhOwkJPC9saW5lYXJHcmFkaWVudD4mI3hhOwk8L2RlZnM+JiN4YTsJPHBhdGggZmlsbD0idXJsKCNBKSIgZD0iTTI0LjEwNCA4LjEwMmE0Ljk3IDQuOTcgMCAwIDEgMS4wNDIgMS41MzRjLjI5MS41NDkuNDM4IDEuMTUyLjQzOCAxLjgxdjExLjcyNWMwIDEuMjQxLS40MjEgMi4yNjUtMS4yNjIgMy4wNjgtLjgzOC44NDItMS44OCAxLjI2MS0zLjEyMSAxLjI2MUgzLjgyN2E0LjE4IDQuMTggMCAwIDEtMy4wNjgtMS4yNjFDLS4wODEgMjUuNDM2LS41IDI0LjQxMi0uNSAyMy4xNzFWMTEuNDQ0YzAtMS4zODcuNDkxLTIuNTAyIDEuNDc4LTMuMzQyTDkuNjM4LjU5NkE0LjUgNC41IDAgMCAxIDEyLjU5NC0uNSA0LjA5IDQuMDkgMCAwIDEgMTUuNDQ0LjU5NnptLTkuMzcgNy44MzZIMTAuMzV2OC43MTNoNC4zODR6bTcuNzgyLTQuNDk0YzAtLjQ3My0uMTQ3LS44NTktLjQzOC0xLjE1bC04LjY1OC03LjUwNmMtLjYyMS0uNDczLTEuMjYxLS40NzMtMS45MTggMGwtOC42NTUgNy41MDZjLS4yOTMuMjkzLS40MzguNjc3LS40MzggMS4xNTJ2MTEuNzI1YzAgLjQzOC4xMjguODAzLjM4NCAxLjA5NmExLjUzIDEuNTMgMCAwIDAgMS4wNC4zODRoMy42MTd2LTguNzEzYzAtLjgwMy4yNzQtMS40OC44MjEtMi4wMjcuNTg2LS41ODYgMS4yOC0uODc3IDIuMDgzLS44NzdoNC4zODRhMi42NiAyLjY2IDAgMCAxIDIuMDI3Ljg3N2MuNTQ5LjU0Ny44MjIgMS4yMjQuODIyIDIuMDI3djguNzEzaDMuNjE3Yy40MzggMCAuNzg0LS4xMjggMS4wNC0uMzg0LjE0NC0uMTQzLjI1Ny0uMzE0LjMzMy0uNTAzcy4xMTEtLjM5LjEwNi0uNTkzeiIvPiYjeGE7PC9zdmc+;labelPosition=right;align=left;fontStyle=1;spacingLeft=15;fontSize=16;" parent="rAv230cPATT6Kc9kaS3i-19" vertex="1">
           <mxGeometry width="28" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rAv230cPATT6Kc9kaS3i-21" value="Cloud&#xa;Connector" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=Cloud_Connector2;points=[[0,0.325,0,0,0],[0,0.5,0,0,0],[0,0.675,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.625,0,0,0,0],[0.625,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" parent="rAv230cPATT6Kc9kaS3i-19" vertex="1">
-          <mxGeometry x="0.5" y="1" width="38" height="38" relative="1" as="geometry">
-            <mxPoint x="-80" y="-85" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rAv230cPATT6Kc9kaS3i-22" value="SAP S/4HANA" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#1A2733;fontFamily=Helvetica;fontStyle=1" parent="rAv230cPATT6Kc9kaS3i-19" vertex="1">
-          <mxGeometry x="90" y="69.9975" width="130" height="30" as="geometry" />
+          <mxGeometry x="17" y="54.89825666666667" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rAv230cPATT6Kc9kaS3i-23" value="" style="strokeColor=#475E75;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" parent="rAv230cPATT6Kc9kaS3i-1" vertex="1">
           <mxGeometry x="948" y="258.01" width="150" height="115" as="geometry" />

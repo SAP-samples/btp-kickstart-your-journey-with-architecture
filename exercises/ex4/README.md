@@ -63,16 +63,16 @@ To see examples of Validator warnings, submit a diagram with several mistakes to
 2. Download this [invalid diagram draw.io file](./drawio/invalid-example.drawio)
 3. Upload the draw.io file to the validator
 
-After completing the steps above, you should have encountered **2 warnings**.
+After completing the steps above, you should have encountered **3 warnings**.
 
 🧠 **Knowledge check:**
 
 <details>
     <summary>
-        What are the <b>2 warnings</b> and how would you fix them?
+        What are the <b>3 warnings</b> and how would you fix them?
     </summary>
     <br/>
-    The two warnings are:
+    The 3 warnings are:
     <ol>
         <li>
             CAP-to-External Integration Requires Destination Service
@@ -80,16 +80,19 @@ After completing the steps above, you should have encountered **2 warnings**.
         <li>
             SAP Build Components Must Be Grouped Under SAP Build SuperArea
         </li>
+        <li>
+            Integration to SAP S/4HANA must use Cloud Connector or Private Link
+        </li>
     </ol>
     <br/>
     <img src="./images/valid-example.drawio.svg"/>
     <br/>
     <br/>
     <p>
-        <a href="./drawio/valid-example.drawio">Valid example draw.io file</a><br/><br/>
         <b>Explanation:</b> <br/>The diagram shows a <a href="https://cap.cloud.sap/docs/">Cloud Application Programming Model (CAP)</a> app that connects with SAP S/4HANA, SAP Build Process Automation, and a 3rd-party Vendor Quote App to facilitate Capital Expenditure Requests.<br/><br/>
         First, it is a best practice to use the Destination Service for securely managing and abstracting connection details for external systems. This allows the CAP application to retrieve credentials and URLs at runtime without hardcoding them.
         <br/><br/>Second, it is a best practice to group SAP Build Process Automation within SAP Build for additional clarity.
+        <br/><br/>Lastly, Cloud Connector or Private Link must be used to connect to on-premise SAP S/4HANA.  
     </p>
 </details>
 
